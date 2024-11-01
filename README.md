@@ -2,6 +2,12 @@
 
 JSON character to romanization mappings for Chinese languages & dialects.
 
+These mappings are used through within [langpal.com.hk](https://langpal.com.hk)/[langpal.com.hk](https://langpal.com.hk) for all Langapal 话朋 products (Web App, Mobile App, Game & Subtitle Extension).
+
+We have tried our best to maintain accuracy and correctness but this is an ever evolving process.
+
+For more information or corrections reach out to [devon@langpal.com.hk](mailto:devon@langpal.com.hk)
+
 ### Mandarin
 
 - Type: Pinyin
@@ -45,3 +51,11 @@ JSON character to romanization mappings for Chinese languages & dialects.
 - Type: Sichuanese Pinyin
 - Sources
   - https://github.com/AlienKevin/sichuanhua
+
+---
+
+Thank you!
+
+From the team @ Langpal 话朋
+
+![](/assets/logo.jpg)
