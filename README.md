@@ -1,6 +1,12 @@
 # Chinese Romanization
 
-JSON character to romanization mappings for various Chinese dialects.
+JSON character to romanization mappings for Chinese languages & dialects.
+
+### Mandarin
+
+- Type: Pinyin
+- Source:
+  - https://github.com/sun-jiao/dart-pinyin
 
 ### Cantonese
 
