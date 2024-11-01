@@ -33,3 +33,9 @@ JSON character to romanization mappings for various Chinese dialects.
   - https://github.com/kahaani/dieghv
   - https://github.com/hokkien-writing/rime-teochew
   - https://github.com/meylingtaing/learning-teochew
+
+### Sichuanese
+
+- Type: Sichuanese Pinyin
+- Sources
+  - https://github.com/AlienKevin/sichuanhua
