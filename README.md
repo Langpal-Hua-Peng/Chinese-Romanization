@@ -52,6 +52,12 @@ For more information or corrections reach out to [devon@langpal.com.hk](mailto:d
 - Sources
   - https://github.com/AlienKevin/sichuanhua
 
+### Taishanese
+
+- Type: Taishanese
+- Sources
+  - https://github.com/pearapple123/rime-hoisanva
+
 ---
 
 Thank you!
